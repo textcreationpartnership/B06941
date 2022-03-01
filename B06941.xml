@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The west-country lawyer or, The witty maid's good fortune; who wisely maintain'd her virginity against the golden assaults of the lawyer, who at length married her to her hearts content. To the tune of The baffled knight,.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1695?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06941</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[578]</idno>
+            <idno type="EEBO-CITATION">99887985</idno>
+            <idno type="PROQUEST">ocm99887985</idno>
+            <idno type="VID">183657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183657)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[448])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The west-country lawyer or, The witty maid's good fortune; who wisely maintain'd her virginity against the golden assaults of the lawyer, who at length married her to her hearts content. To the tune of The baffled knight,.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1688-1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing W1404.</note>
+                  <note>Verse: "A youthful lawyer fine and gay ..."</note>
+                  <note>Cf. Wing W1404 which has "Licensed according to order" in title.</note>
+                  <note>Imperfect: trimmed, possibly affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="578" facs="tcp:183657:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <hi>The Weſt-Country Lawyer</hi> OR, The Witty Maid's Good Fortune;</head>
+            <argument>
+               <p>Who wiſely maintain'd her Virginity againſt the Golden Aſſaults of the Lawyer, who at length Married her to her hearts Content.</p>
+            </argument>
+            <opener>To the Tune of the Baffled Knight,</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>A</hi> Youthful Lawyer fine and gay</l>
+               <l>was Riding unto the City,</l>
+               <l>Who met a Damſel on the way,</l>
+               <l>right beautiful, fair and witty.</l>
+               <l>Good morrow then the Lawyer cry'd</l>
+               <l>I prethée where art thou going,</l>
+               <l>Quoth ſhe, to yonder Meadows ſide,</l>
+               <l>my father is there a Mowing.</l>
+            </lg>
+            <lg>
+               <l>Straight from his Horſe he did alight</l>
+               <l>and as he was going to her,</l>
+               <l>The Maid immediately took flight,</l>
+               <l>for fear he would undo her,</l>
+               <l>But he run like a Nimble Déer,</l>
+               <l>until he did overtake her;</l>
+               <l>And then he'd whiſper'd in her Ear,</l>
+               <l>a Lady he ſurely make her,</l>
+            </lg>
+            <lg>
+               <l>If he might but enjoy the Bliſs,</l>
+               <l>a min<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uit or two of Pleaſure;</l>
+               <l>Then as a Pledge I'll give thée this,</l>
+               <l>a handful of Golden Treaſure.</l>
+               <l>Said ſhe, I value not your Gold.</l>
+               <l>and therefore I pray be civil,</l>
+               <l>My Maidens-head ſhall ne'er be Sold</l>
+               <l>for Moneys the root of all evil.</l>
+               <l>I'd ſooner be a Ploughs-mans Bride,</l>
+               <l>and ſit at my Whéel a Spinning:</l>
+               <l>Than be a Lawyer's Ilt. ſhe cry'd,</l>
+               <l>to live by the Trade of Sinning.</l>
+               <l>Tuſh, ſaid the Lawyer be not coy,</l>
+               <l>let's fall to our Loves Embraces</l>
+               <l>A Silken Gown thou ſhalt enjoy,</l>
+               <l>with Bracelets, Rings and Laces,</l>
+               <l>your Silken Gown I do disdain,</l>
+               <l>although I have mean Relation,</l>
+               <l>I am reſolved to maintain</l>
+               <l>my Innocent Reputation.</l>
+               <l>If thou wilt but to <hi>London</hi> go</l>
+               <l>I'll honour the like a Lady,</l>
+               <l>But ſtill the damſel anſwer'd no</l>
+               <l>I am happy enough already.</l>
+               <l>You talk of Glory State and Fame,</l>
+               <l>and how I ſhall be attended;</l>
+               <l>But Sir I am not for your Game,</l>
+               <l>so let the Diſcourſe be ended.</l>
+               <l>Pray ſave your Breath and Money too,</l>
+               <l>I like not your way of Wooing</l>
+               <l>There is too many ſuc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s you</l>
+               <l>that brings the young Maids to Ruin.</l>
+               <l>I'll kéep my pure Virginity,</l>
+               <l>till Marraige is my Pleaſure:</l>
+               <l>For Sir ſaid ſhe it is more to me</l>
+               <l>Then Millions of Gold and Treaſure</l>
+               <l>He found her ſo diſcréet and wiſe,</l>
+               <l>in every ready Anſwer,</l>
+               <l>That he her Charms did highly prize.</l>
+               <l>and vow'd he would ſoon advance her,</l>
+               <l>Vnto her Parents he did go,</l>
+               <l>where he did their Love require:</l>
+               <l>Then was ſhe cloath'd from top to Toe,</l>
+               <l>in coſtly Rich Attire.</l>
+               <l>Next day the Gordian Knot was ty'd,</l>
+               <l>and many was at the Marriage:</l>
+               <l>Then ſhe appear'd an Angel bright,</l>
+               <l>for Beauty and comely Carriage.</l>
+               <l>you Laſſes all I pray you mind,</l>
+               <l>to whom I have told this Story,</l>
+               <l>Be careful that you a'not too kind,</l>
+               <l>for fear you ſhould blaſt your Glory,</l>
+               <l>Had ſhe béen ſoon to Folly lead,</l>
+               <l>and for a ſmall Spell Conſented,</l>
+               <l>She might have loſt her Maidens-head,</l>
+               <l>and when it was gon Lamented.</l>
+               <l>But now ſhe is a Lawyers Wife,</l>
+               <l>her Husband do's dearly Love her,</l>
+               <l>So that ſhe leads a happy Life,</l>
+               <l>ther's few in the Town above her.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
